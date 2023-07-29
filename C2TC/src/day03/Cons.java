@@ -1,9 +1,6 @@
 package day03;
 
-
-
-public class Out {
-
+public class Cons {
 	public static void main(String[] args) {
 		Student s=new Student();
 		s.setStudid(54);
@@ -12,5 +9,4 @@ public class Out {
 		System.out.println(s.toString());
 
 	}
-
 }
