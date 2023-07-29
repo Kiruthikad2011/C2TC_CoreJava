@@ -4,6 +4,6 @@ public class Identifier {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		        System.out.println("Hello JavaTpoint");  
+		        System.out.println("Hello World");  
 		    }  
 }
