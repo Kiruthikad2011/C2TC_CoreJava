@@ -25,9 +25,9 @@ class Circle extends Shape {
 			public static void main(String[] args) {
 				Shape S;
 				S = new Circle();
-				System.out.println ();
+				System.out.println ("S.draw()");
 				S = new Square();
-				System.out.println ();
+				System.out.println ("S.draw()");
 			}
 		}
 
